@@ -1,9 +1,0 @@
-download the SkyBREAK folder
-
-take it out of the zipped folder
-
-open up windows powershell
-
-cd to the SkyBREAK folder
-
-run -> java com.mycompany.katesjavaproj.SkyBREAK
